@@ -28,10 +28,9 @@ export default {
 
 
 <style lang="less" scoped>
-<<<<<<< HEAD
-</style>
 
-=======
+
+
 .home_container {
   height: 100%;
 }
@@ -45,4 +44,4 @@ export default {
   background-color: #eaedf1;
 }
 </style>
->>>>>>> login
+
