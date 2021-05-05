@@ -6,6 +6,48 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "5202838",
+      "name": "商品管理",
+      "font_class": "shangpinguanli",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "11641887",
+      "name": "用户管理",
+      "font_class": "yonghuguanli",
+      "unicode": "e622",
+      "unicode_decimal": 58914
+    },
+    {
+      "icon_id": "14843438",
+      "name": "订单管理",
+      "font_class": "dingdanguanli",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    },
+    {
+      "icon_id": "18442773",
+      "name": "用户管理",
+      "font_class": "yonghuguanli1",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "19136113",
+      "name": "权限管理1",
+      "font_class": "quanxianguanli1",
+      "unicode": "e658",
+      "unicode_decimal": 58968
+    },
+    {
+      "icon_id": "19287391",
+      "name": "数据统计",
+      "font_class": "shujutongji",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
       "icon_id": "21303012",
       "name": "编辑项目",
       "font_class": "bianjixiangmu",
