@@ -24,3 +24,6 @@ body,
 .el-input__suffix {
   color: #2ecc71;
 }
+.el-cascader-panel {
+  height: 200px;
+}
