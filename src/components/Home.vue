@@ -92,7 +92,7 @@ export default {
       const { data: res } = await this.$http.get('menus')
       if (res.meta.status !== 200) return this.$message.error(res.meta.msg)
       this.menuList = res.data
-      console.log(res)
+
     },
     //是否折叠
     toggleCollapse() {
