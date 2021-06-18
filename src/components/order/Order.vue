@@ -101,7 +101,7 @@
   </div>
 </template>
 <script>
-import cityData from './citydata'
+import cityData from './Citydata'
 export default {
   data() {
     return {
